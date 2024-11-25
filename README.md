@@ -16,10 +16,11 @@ If you're a developer and want to prevent your code from running in the battlefi
 3. Copy the polygon data and have ChatGPT convert that into GeoJSON.
 4. Add new polygon to our existing GeoJSON
 
-![screenshot of Kepler data tool showing a heat map of fatalities in Eurasia](https://github.com/FPVMateOfficial/think-of-the-pets/TODO)
+![screenshot of Kepler data tool showing a heat map of fatalities in Eurasia](https://raw.githubusercontent.com/FPVMateOfficial/think-of-the-pets/refs/heads/main/readme_assets/kepler_screenshot.png)
 
 # Contribute
 
 As conflicts begin and end, this data set will need to be updated. If you see any areas that should be add or removed please create a pull request with your changes.
 
-TODO: https://geojson.tools/ link
+Here's a quick tool to view our edit the GeoJSON data: [uMap link](https://umap.openstreetmap.fr/en/map/anonymous-edit/1144055:UnODy8YK-mvnR_lgeYjGl1PFRnDA8ujtQ1rsShld_jE).
+Then export a geojson file and submit a pull request.
