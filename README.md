@@ -2,6 +2,8 @@
 
 An opensource GeoJSON file containing polygons of active conflicts throughout the world.
 
+![World map displaying polygons around current conflict areas](https://raw.githubusercontent.com/FPVMateOfficial/think-of-the-pets/refs/heads/main/readme_assets/current_restrictions.png)
+
 # Why?
 
 While developing software for toy helicopters (drones) I realized the need to [geofence](https://en.wikipedia.org/wiki/Geofence) the app; to prevent its usage in combat.
@@ -24,5 +26,3 @@ As conflicts begin and end, this data set will need to be updated. If you see an
 
 Here's a quick tool to view our edit the GeoJSON data: [uMap link](https://umap.openstreetmap.fr/en/map/anonymous-edit/1144055:UnODy8YK-mvnR_lgeYjGl1PFRnDA8ujtQ1rsShld_jE).
 Then export a geojson file and submit a pull request.
-
-![screenshot of Kepler data tool showing a heat map of fatalities in Eurasia](https://raw.githubusercontent.com/FPVMateOfficial/think-of-the-pets/refs/heads/main/readme_assets/current_restrictions.png)
