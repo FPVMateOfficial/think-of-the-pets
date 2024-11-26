@@ -1,3 +1,5 @@
+![Simpson think of the children meme, but children is crossed out and it says "pets"](https://raw.githubusercontent.com/FPVMateOfficial/think-of-the-pets/refs/heads/main/readme_assets/think_of_the_pets_meme.jpg.png)
+
 # What is this?
 
 An opensource GeoJSON file containing polygons of active conflicts throughout the world.
