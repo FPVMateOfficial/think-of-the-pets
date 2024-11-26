@@ -1,4 +1,4 @@
-![Simpson think of the children meme, but children is crossed out and it says "pets"](https://raw.githubusercontent.com/FPVMateOfficial/think-of-the-pets/refs/heads/main/readme_assets/think_of_the_pets_meme.jpg.png)
+![Simpson think of the children meme, but children is crossed out and it says "pets"](https://raw.githubusercontent.com/FPVMateOfficial/think-of-the-pets/refs/heads/main/readme_assets/think_of_the_pets_meme.jpg)
 
 # What is this?
 
