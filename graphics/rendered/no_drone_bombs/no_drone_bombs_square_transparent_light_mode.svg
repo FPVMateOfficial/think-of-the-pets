@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 800 466" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
-    <g transform="matrix(1,0,0,1,0,-167)">
-        <g transform="matrix(1,0,0,1,-0.00149268,-4.26326e-14)">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="Light-Mode" serif:id="Light Mode" transform="matrix(1,0,0,1,-0.00149268,-4.26326e-14)">
+        <rect x="0.001" y="0" width="799.998" height="800" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0.001" y="0" width="799.998" height="800"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="bg" transform="matrix(1.02209,0,0,1.02141,-17.6686,-17.1283)">
+                <rect x="17.288" y="16.769" width="782.711" height="783.231" style="fill:white;"/>
+            </g>
             <g id="transparent_light_mode" transform="matrix(1,0,0,1,0.00149268,4.26326e-14)">
                 <g id="drone_bomb" transform="matrix(1.16876,0,0,1.16876,-67.5016,-51.9196)">
                     <g id="bomb1_filled" transform="matrix(2.38772e-17,0.389945,-0.389945,2.38772e-17,555.978,297.762)">
