@@ -10,11 +10,11 @@ View the [current uMap](http://u.osmfr.org/m/1144487/).
 
 # Why?
 
+**You don't want to be the reason someone doesn't come home to their pet.**
+
 While developing software for toy helicopters (drones), I realized the need to [geofence](https://en.wikipedia.org/wiki/Geofence) the app to prevent its usage in combat.
 
 If you're a developer and want to prevent your code from being used on the battlefield, this dataset is for you.
-
-**You don't want to be the reason someone doesn't come home to their pet.**
 
 # How
 
@@ -39,3 +39,8 @@ We recommend using [uMap](https://umap.openstreetmap.fr/en/):
    `https://raw.githubusercontent.com/FPVMateOfficial/think-of-the-pets/refs/heads/main/think-of-the-pets.geojson`
 3. Modify the polygons as needed.
 4. Export the updated GeoJSON file and submit a pull request.
+
+## License
+
+This is provided under the [CC0 1.0 Universal (Public Domain Dedication)](LICENSE).
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
